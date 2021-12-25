@@ -15,3 +15,4 @@
 
 ## *Developed Applications*
 * Application1 - [Using textOnClick and Toast](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp)
+* Application2 - [Basic Activity Template](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp2)
