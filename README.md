@@ -17,6 +17,7 @@
 * Application8 - [Toggle Button Example](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App8)
 * Application9 - [Plain Text Example](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App9)
 * Application10 - [WebView Example](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App10)
+* Application11 - [SeekBar Example](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App11)
 
 ## *Developed Applications*
 * Application1 - [Using textOnClick and Toast](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp)
