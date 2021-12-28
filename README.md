@@ -21,6 +21,9 @@
 * Application12 - [Static Call](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App12)
 * Application13 - [Dynamic Call](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App13)
 
+## *Day 4*
+* Application14 - [Static Message](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App14)
+
 ## *Developed Applications*
 * Application1 - [Using textOnClick and Toast](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp)
 * Application2 - [Basic Activity Template](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp2)
