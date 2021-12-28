@@ -24,6 +24,7 @@
 ## *Day 4*
 * Application14 - [Static Message](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App14)
 * Application15 - [Dynamic Message](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App15)
+* Application16 - [Static Email](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App16)
 
 ## *Developed Applications*
 * Application1 - [Using textOnClick and Toast](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp)
