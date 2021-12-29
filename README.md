@@ -32,6 +32,7 @@
 ## *Day 5*
 * Application20 - [Dual Screens Example](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App20)
 * Application21 - [View Text in Second Screen](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App21)
+* Application22 - [Accelerometer - Sensor](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App22)
 
 ## *Developed Applications*
 * Application1 - [Using textOnClick and Toast](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp)
