@@ -29,6 +29,9 @@
 * Application18 - [SpeechToText](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App18)
 * Application19 - [Dynamic Email](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App19)
 
+## *Day 5*
+* Application20 - [Dual Screens Example](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App20)
+
 ## *Developed Applications*
 * Application1 - [Using textOnClick and Toast](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp)
 * Application2 - [Basic Activity Template](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp2)
