@@ -38,6 +38,7 @@
 
 ## *Day 6*
 * Fruit Benifits - [Application](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp3)
+* Application25 - [QR Code Generator](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App25)
 
 ## *Developed Applications*
 * Application1 - [Using textOnClick and Toast](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp)
