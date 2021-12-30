@@ -36,6 +36,10 @@
 * Application23 - [Triple Screen Display Example](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App23)
 * Application24 - [Image View Example](https://github.com/darsigangothri06/MobileAppDevelopment/tree/App24)
 
+## *Day 6*
+* Fruit Benifits - [Application](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp3)
+
 ## *Developed Applications*
 * Application1 - [Using textOnClick and Toast](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp)
 * Application2 - [Basic Activity Template](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp2)
+* Fruit Benifits - [Application](https://github.com/darsigangothri06/MobileAppDevelopment/tree/DevApp3)
