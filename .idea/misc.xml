@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MobileAppDevelopment/FruitBenifits/app/src/main/res/drawable/AppLogo_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/MobileAppDevelopment/FruitBenifits/app/src/main/res/layout/activity_fourth.xml" value="0.1671195652173913" />
+        <entry key="..\:/MobileAppDevelopment/FruitBenifits/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/MobileAppDevelopment/FruitBenifits/app/src/main/res/layout/activity_second.xml" value="0.264" />
+        <entry key="..\:/MobileAppDevelopment/FruitBenifits/app/src/main/res/layout/activity_third.xml" value="0.2" />
+        <entry key="..\:/MobileAppDevelopment/FruitBenifits/app/src/main/res/layout/activty_fifth.xml" value="0.176" />
+        <entry key="..\:/MobileAppDevelopment/FruitBenifits/app/src/main/res/mipmap-anydpi-v26/AppLogo.xml" value="0.14635416666666667" />
+        <entry key="..\:/MobileAppDevelopment/FruitBenifits/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.2703125" />
+        <entry key="..\:/MobileAppDevelopment/FruitBenifits/app/src/main/res/mipmap-anydpi-v26/logo_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
